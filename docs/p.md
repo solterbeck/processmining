@@ -3,8 +3,6 @@ layout: default
 title: P
 ---
 
-# Search
-{: .no_toc }
-
+# P
 ---
 List of books
