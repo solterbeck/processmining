@@ -15,9 +15,9 @@ title: Bibliography
 ---
 
 ### A
----
+
 Architecure
 
 ### P
----
+
 Process Mining
