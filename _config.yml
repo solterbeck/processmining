@@ -3,3 +3,7 @@ description: Mine the relevant Knowledge about Process Mining
 theme: just-the-docs
 
 url: https://solterbeck.github.io/processmining
+
+# Enable or disable the site search
+# Supports true (default) or false
+search_enabled: true
